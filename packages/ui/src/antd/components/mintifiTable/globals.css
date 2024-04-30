@@ -1,0 +1,21 @@
+/* .ant-table-thead {
+    border: 0.5px solid #E2E3F7
+} */
+
+.ant-collapse-header-text {
+    color: #2F73D8;
+    font-weight: 600;
+}
+
+.ant-table-cell {
+    border: 0.5px solid #E2E3F7
+    border
+}
+
+.ant-table-thead .ant-table-cell {
+    border-radius: 0px !important;
+    background-color: #E7EBF7 !important;
+    color: #666BA5 !important;
+}
+
+  

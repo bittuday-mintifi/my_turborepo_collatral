@@ -1,0 +1,14 @@
+{
+  "name": "@ecloud/ui",
+  "version": "0.0.0",
+  "main": "dist/es/index.js",
+  "module": "dist/es/index.js",
+  "types": "dist/es/index.d.ts",
+  "license": "MIT",
+  "extends": "@repo/typescript-config/react-library.json",
+  "compilerOptions": {
+    "outDir": "dist"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

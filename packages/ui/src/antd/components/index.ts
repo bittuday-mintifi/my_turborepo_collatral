@@ -1,0 +1,12 @@
+import type { ColumnsType } from 'antd/es/table'
+import type { ThemeConfig } from 'antd/es/config-provider'
+import type { ResultProps } from 'antd/es/result'
+import type { FormInstance } from 'antd/es/form'
+
+export { default as Card } from './mintifiCard'
+export { default as Typogrphy } from './mintifiTypography'
+export { default as MintifiHeaderCard } from './mintifiHeaderCards'
+export { default as MintifiCollapse} from './mintifiCollapsible'
+export { default as MintifiAccountCollapsible} from './mintifiAccountCollapsible'
+export { default as MintifiTable} from './mintifiTable'
+export { default as MintifiDataTable} from './mintifiDataTable'
